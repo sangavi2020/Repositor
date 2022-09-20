@@ -71,7 +71,7 @@
 &nbsp;
  
 <!-- GitHub Stats -->
- <H2 align="center"><strong>Front End Developer
+ 
 <H2 align="center"><strong>certificates: 
   </strong>
 </H2>
@@ -79,6 +79,9 @@
       <div align="center">
     </p>
    
+  FRONT END DEVELOPER
+  
+  
   CISCO
   
   
