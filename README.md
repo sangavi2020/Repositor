@@ -6,7 +6,7 @@
  
  
 <!-- Quote -->
-<p align="center">I am sangavi.M pursuing <b.tech>undergradute in Sri Sairam Institute Of Technology,having the ability to take a step to learn new things  everyday ,
+<p align="center">I am sangavi.M (FRONT END DEVELOPER) pursuing <b.tech>undergradute in Sri Sairam Institute Of Technology,having the ability to take a step to learn new things  everyday ,
  
   <!-- Social Network -->
 <h1 align="center">
@@ -53,6 +53,7 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/88145844/127640814-9718d567-eb2f-4124-87ed-436f740b05e6.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
   </p>
  
@@ -61,9 +62,8 @@
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
+ 
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/88145844/127641969-eadaedc9-052c-4b18-b949-5a1c3ee8165a.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
   
