@@ -72,26 +72,32 @@
  
 <!-- GitHub Stats -->
  
-<H2 align="center"><strong>certificates: 
+<H2 align="center"><strong>Interests & certificates: 
   </strong>
 </H2>
     <p align="center">
       <div align="center">
     </p>
    
-  FRONT END DEVELOPER
+   I AM A FRONT END DEVELOPER
   
   
-  CISCO
+   INTERESTS IN CREATION OF LOGO & UI/UX FOR AN APP AND WEBSITE
   
   
-  FS PRIME
+   GOT A CERTIFICATE IN CISCO
   
   
- SELECTION FOR INTERNSHIP AT GK GROUP OF COMPANY
+   GOT A CERTIFICATE IN FS PRIME
+  
+  
+   GAIN AN IBM DATA ANALYST  BATCH
+  
+  
+   DONE AN INTERNSHIP AT GK GROUP OF COMPANY
  
  
- DONE AN INTERNSHIP AT GL LEARNING ACADEMY
+   DOING AN INTERNSHIP AT BOSS TECHNOLOGY
   
   
   
