@@ -6,7 +6,8 @@
  
  
 <!-- Quote -->
-<p align="center">I am sangavi.M (FRONT END DEVELOPER) pursuing <b.tech>undergradute in Sri Sairam Institute Of Technology,having the ability to take a step to learn new things  everyday ,
+<p align="center">I am sangavi.M (FRONT END DEVELOPER) pursuing <b.tech>undergradute in Sri Sairam Institute Of Technology,
+  Having the ability to take a step to learn new things  everyday ,
  
   <!-- Social Network -->
 <h1 align="center">
@@ -82,7 +83,10 @@
    I AM A FRONT END DEVELOPER
   
   
-   INTERESTS IN CREATION OF LOGO & UI/UX FOR AN APP AND WEBSITE
+   INTERESTS IN CREATION OF LOGO & UI/UX  DESIGN FOR AN APP AND WEBSITE
+  
+  
+  LEARNING FOR BACK END DEVELOPER
   
   
    GOT A CERTIFICATE IN CISCO
