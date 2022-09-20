@@ -71,6 +71,7 @@
 &nbsp;
  
 <!-- GitHub Stats -->
+ <H2 align="center"><strong>Front End Developer
 <H2 align="center"><strong>certificates: 
   </strong>
 </H2>
@@ -87,6 +88,8 @@
  SELECTION FOR INTERNSHIP AT GK GROUP OF COMPANY
  
  
- DOING INTERNSHIP AT GL LEARNING ACADEMY
+ DONE AN INTERNSHIP AT GL LEARNING ACADEMY
+  
+  
   
   
