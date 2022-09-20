@@ -7,7 +7,7 @@
  
 <!-- Quote -->
 <p align="center">I am sangavi.M (FRONT END DEVELOPER) pursuing <b.tech>undergradute in Sri Sairam Institute Of Technology,
-  Having the ability to take a step to learn new things  everyday ,
+  Having an ability to take a step to learn new things  everyday ,
  
   <!-- Social Network -->
 <h1 align="center">
@@ -33,6 +33,16 @@
        width="22px"
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
+  
+  
+  
+<a href="https://stackoverflow.com/">
+  <img alin="center"
+       alt="Stackoverflow"
+       width="22px"
+       src="[download](https://user-images.githubusercontent.com/88145844/191324216-50016a89-01de-468f-9485-6201644ccbd4.png)"/>
+  </a>
+
 </h1>
  
  
